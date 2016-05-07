@@ -7,6 +7,7 @@ Input:
 F(W,X,Y,Z)=5,10,12,14
 
 Don't care F'(W,X,Y,Z)=4,11
+
 Output:
 
 Group= [[(1, 0), (2, 0)], [(1, 0), (1, 1)], [(2, 3), (3, 3)]]
@@ -17,6 +18,7 @@ Error posibility for the result= 0.268
  
  
  
+ 
 Group= [[(1, 0), (1, 1)], [(2, 3), (3, 3)], [(2, 3), (2, 0)]]
 
 Result= A'BC' + ACD' + ABD'
@@ -24,6 +26,7 @@ Result= A'BC' + ACD' + ABD'
 Common-term= (2, 3)
 
 Error posibility for the result= 0.231
+
 
  
  
