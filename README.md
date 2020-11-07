@@ -1,7 +1,5 @@
 # Fault-Tolerant-at-Combinational-Circuits
-This Project is the implementation of the Paper "[A new approach to extract features from ECG signals](https://ieeexplore.ieee.org/document/7391944)". It shows the simplest solutions of a boolean function and provides which one is best for implementation. 
-
-The Goal of this system is to develop a simulation-based method which is based on maximizing the probability of logical masking when a soft error occurs. This is done by extracting sub-circuits from an original multi-level circuit and then re-synthesizing each extracted sub-circuit to increase fault masking against a single fault.
+The Goal of this system is to develop a simulation-based method which is based on maximizing the probability of logical masking when a soft error occurs. This Project shows the simplest solutions of a boolean function and provides which one is best for implementation. This is done by extracting sub-circuits from an original multi-level circuit and then re-synthesizing each extracted sub-circuit to increase fault masking against a single fault.
 
 ## Requirements 
 * Python 2.7 
